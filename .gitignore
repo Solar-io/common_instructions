@@ -1,0 +1,20 @@
+# Claude Code metadata
+.claude/
+
+# IDE
+.vscode/
+.idea/
+.history/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+.tmp/
+temp/

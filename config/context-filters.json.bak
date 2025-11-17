@@ -1,0 +1,30 @@
+{
+  "include": [
+    "app/**",
+    "src/**",
+    "config/**",
+    "docs/**",
+    "scripts/**",
+    "tests/**",
+    "prompts/**",
+    "public/**",
+    "fixtures/**",
+    "package.json",
+    "package-lock.json",
+    "tsconfig.json",
+    "next.config.js",
+    "README.md",
+    "docs/PROJECT_STATUS.md",
+    "docs/TASKS.md"
+  ],
+  "exclude": [
+    "node_modules/**",
+    ".next/**",
+    "logs/**",
+    ".git/**",
+    ".history/**",
+    "examples/archive/**",
+    "Dockerfile",
+    "docker-compose.yml"
+  ]
+}
